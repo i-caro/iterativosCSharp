@@ -1,0 +1,7 @@
+C:\Users\icarrom063\source\estructuras-iterativas\costeLuz\costeLuz\bin\Debug\costeLuz.exe.config
+C:\Users\icarrom063\source\estructuras-iterativas\costeLuz\costeLuz\bin\Debug\costeLuz.exe
+C:\Users\icarrom063\source\estructuras-iterativas\costeLuz\costeLuz\bin\Debug\costeLuz.pdb
+C:\Users\icarrom063\source\estructuras-iterativas\costeLuz\costeLuz\obj\Debug\costeLuz.csproj.AssemblyReference.cache
+C:\Users\icarrom063\source\estructuras-iterativas\costeLuz\costeLuz\obj\Debug\costeLuz.csproj.CoreCompileInputs.cache
+C:\Users\icarrom063\source\estructuras-iterativas\costeLuz\costeLuz\obj\Debug\costeLuz.exe
+C:\Users\icarrom063\source\estructuras-iterativas\costeLuz\costeLuz\obj\Debug\costeLuz.pdb

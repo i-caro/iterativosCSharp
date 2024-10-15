@@ -1,0 +1,7 @@
+C:\Users\icarrom063\source\estructuras-iterativas\strings\strings\bin\Debug\strings.exe.config
+C:\Users\icarrom063\source\estructuras-iterativas\strings\strings\bin\Debug\strings.exe
+C:\Users\icarrom063\source\estructuras-iterativas\strings\strings\bin\Debug\strings.pdb
+C:\Users\icarrom063\source\estructuras-iterativas\strings\strings\obj\Debug\strings.csproj.AssemblyReference.cache
+C:\Users\icarrom063\source\estructuras-iterativas\strings\strings\obj\Debug\strings.csproj.CoreCompileInputs.cache
+C:\Users\icarrom063\source\estructuras-iterativas\strings\strings\obj\Debug\strings.exe
+C:\Users\icarrom063\source\estructuras-iterativas\strings\strings\obj\Debug\strings.pdb

@@ -1,0 +1,7 @@
+C:\Users\icarrom063\source\estructuras-iterativas\aleatorio\aleatorio\bin\Debug\aleatorio.exe.config
+C:\Users\icarrom063\source\estructuras-iterativas\aleatorio\aleatorio\bin\Debug\aleatorio.exe
+C:\Users\icarrom063\source\estructuras-iterativas\aleatorio\aleatorio\bin\Debug\aleatorio.pdb
+C:\Users\icarrom063\source\estructuras-iterativas\aleatorio\aleatorio\obj\Debug\aleatorio.csproj.AssemblyReference.cache
+C:\Users\icarrom063\source\estructuras-iterativas\aleatorio\aleatorio\obj\Debug\aleatorio.csproj.CoreCompileInputs.cache
+C:\Users\icarrom063\source\estructuras-iterativas\aleatorio\aleatorio\obj\Debug\aleatorio.exe
+C:\Users\icarrom063\source\estructuras-iterativas\aleatorio\aleatorio\obj\Debug\aleatorio.pdb

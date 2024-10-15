@@ -1,0 +1,7 @@
+C:\Users\icarrom063\source\estructuras-iterativas\factorial\factorial\bin\Debug\factorial.exe.config
+C:\Users\icarrom063\source\estructuras-iterativas\factorial\factorial\bin\Debug\factorial.exe
+C:\Users\icarrom063\source\estructuras-iterativas\factorial\factorial\bin\Debug\factorial.pdb
+C:\Users\icarrom063\source\estructuras-iterativas\factorial\factorial\obj\Debug\factorial.csproj.AssemblyReference.cache
+C:\Users\icarrom063\source\estructuras-iterativas\factorial\factorial\obj\Debug\factorial.csproj.CoreCompileInputs.cache
+C:\Users\icarrom063\source\estructuras-iterativas\factorial\factorial\obj\Debug\factorial.exe
+C:\Users\icarrom063\source\estructuras-iterativas\factorial\factorial\obj\Debug\factorial.pdb

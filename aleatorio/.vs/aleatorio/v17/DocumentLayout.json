@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\icarrom063\\source\\estructuras-iterativas\\aleatorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACCAAB3-BD5A-4515-BC67-F39661E29DA8}|aleatorio\\aleatorio.csproj|c:\\users\\icarrom063\\source\\estructuras-iterativas\\aleatorio\\aleatorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ACCAAB3-BD5A-4515-BC67-F39661E29DA8}|aleatorio\\aleatorio.csproj|solutionrelative:aleatorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icarrom063\\source\\estructuras-iterativas\\aleatorio\\aleatorio\\Program.cs",
+              "RelativeDocumentMoniker": "aleatorio\\Program.cs",
+              "ToolTip": "C:\\Users\\icarrom063\\source\\estructuras-iterativas\\aleatorio\\aleatorio\\Program.cs",
+              "RelativeToolTip": "aleatorio\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:05:49.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

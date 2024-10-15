@@ -1,0 +1,7 @@
+C:\Users\icarrom063\source\estructuras-iterativas\pila\pila\bin\Debug\pila.exe.config
+C:\Users\icarrom063\source\estructuras-iterativas\pila\pila\bin\Debug\pila.exe
+C:\Users\icarrom063\source\estructuras-iterativas\pila\pila\bin\Debug\pila.pdb
+C:\Users\icarrom063\source\estructuras-iterativas\pila\pila\obj\Debug\pila.csproj.AssemblyReference.cache
+C:\Users\icarrom063\source\estructuras-iterativas\pila\pila\obj\Debug\pila.csproj.CoreCompileInputs.cache
+C:\Users\icarrom063\source\estructuras-iterativas\pila\pila\obj\Debug\pila.exe
+C:\Users\icarrom063\source\estructuras-iterativas\pila\pila\obj\Debug\pila.pdb

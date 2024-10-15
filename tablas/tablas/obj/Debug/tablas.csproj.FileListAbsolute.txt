@@ -1,0 +1,7 @@
+C:\Users\icarrom063\source\estructuras-iterativas\tablas\tablas\bin\Debug\tablas.exe.config
+C:\Users\icarrom063\source\estructuras-iterativas\tablas\tablas\bin\Debug\tablas.exe
+C:\Users\icarrom063\source\estructuras-iterativas\tablas\tablas\bin\Debug\tablas.pdb
+C:\Users\icarrom063\source\estructuras-iterativas\tablas\tablas\obj\Debug\tablas.csproj.AssemblyReference.cache
+C:\Users\icarrom063\source\estructuras-iterativas\tablas\tablas\obj\Debug\tablas.csproj.CoreCompileInputs.cache
+C:\Users\icarrom063\source\estructuras-iterativas\tablas\tablas\obj\Debug\tablas.exe
+C:\Users\icarrom063\source\estructuras-iterativas\tablas\tablas\obj\Debug\tablas.pdb

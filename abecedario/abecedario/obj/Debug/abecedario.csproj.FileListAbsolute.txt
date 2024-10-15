@@ -1,0 +1,7 @@
+C:\Users\icarrom063\source\estructuras-iterativas\abecedario\abecedario\bin\Debug\abecedario.exe.config
+C:\Users\icarrom063\source\estructuras-iterativas\abecedario\abecedario\bin\Debug\abecedario.exe
+C:\Users\icarrom063\source\estructuras-iterativas\abecedario\abecedario\bin\Debug\abecedario.pdb
+C:\Users\icarrom063\source\estructuras-iterativas\abecedario\abecedario\obj\Debug\abecedario.csproj.AssemblyReference.cache
+C:\Users\icarrom063\source\estructuras-iterativas\abecedario\abecedario\obj\Debug\abecedario.csproj.CoreCompileInputs.cache
+C:\Users\icarrom063\source\estructuras-iterativas\abecedario\abecedario\obj\Debug\abecedario.exe
+C:\Users\icarrom063\source\estructuras-iterativas\abecedario\abecedario\obj\Debug\abecedario.pdb

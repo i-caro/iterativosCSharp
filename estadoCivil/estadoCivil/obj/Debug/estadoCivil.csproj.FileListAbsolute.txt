@@ -1,0 +1,7 @@
+C:\Users\icarrom063\source\estructuras-iterativas\estadoCivil\estadoCivil\bin\Debug\estadoCivil.exe.config
+C:\Users\icarrom063\source\estructuras-iterativas\estadoCivil\estadoCivil\bin\Debug\estadoCivil.exe
+C:\Users\icarrom063\source\estructuras-iterativas\estadoCivil\estadoCivil\bin\Debug\estadoCivil.pdb
+C:\Users\icarrom063\source\estructuras-iterativas\estadoCivil\estadoCivil\obj\Debug\estadoCivil.csproj.AssemblyReference.cache
+C:\Users\icarrom063\source\estructuras-iterativas\estadoCivil\estadoCivil\obj\Debug\estadoCivil.csproj.CoreCompileInputs.cache
+C:\Users\icarrom063\source\estructuras-iterativas\estadoCivil\estadoCivil\obj\Debug\estadoCivil.exe
+C:\Users\icarrom063\source\estructuras-iterativas\estadoCivil\estadoCivil\obj\Debug\estadoCivil.pdb
